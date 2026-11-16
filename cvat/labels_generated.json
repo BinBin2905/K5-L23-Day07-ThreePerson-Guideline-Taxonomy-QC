@@ -29,16 +29,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "rider",
@@ -70,16 +75,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "car",
@@ -111,16 +121,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "truck",
@@ -152,16 +167,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "van",
@@ -193,16 +213,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "bus",
@@ -234,16 +259,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "motorcycle",
@@ -275,16 +305,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "bicycle",
@@ -316,16 +351,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "rickshaw",
@@ -357,16 +397,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "sidecar",
@@ -398,16 +443,21 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "goods",
@@ -439,20 +489,26 @@
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       },
       {
         "name": "can_review",
         "mutable": false,
         "input_type": "checkbox",
         "default_value": "false",
-        "values": []
+        "values": [
+          "false"
+        ]
       }
-    ]
+    ],
+    "type": "rectangle"
   },
   {
     "name": "ignore_region",
     "color": "#808080",
-    "attributes": []
+    "attributes": [],
+    "type": "rectangle"
   }
 ]
