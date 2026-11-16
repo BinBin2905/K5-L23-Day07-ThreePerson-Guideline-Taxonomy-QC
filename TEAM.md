@@ -1,7 +1,10 @@
 # Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: ThreePerson
 - Mã thành viên (ba chữ số):
+  - Võ Nguyễn Thành Phat - 2A202603195
+  - Phạm Trọng Hiện - 2A202603218
+  - Lưu Nhật Nam - 2A202603243
 - Người điều phối:
 - Người review bản cuối:
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
