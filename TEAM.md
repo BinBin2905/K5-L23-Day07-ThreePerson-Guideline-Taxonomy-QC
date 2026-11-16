@@ -5,8 +5,8 @@
   - Võ Nguyễn Thành Phat - 2A202603195
   - Phạm Trọng Hiện - 2A202603218
   - Lưu Nhật Nam - 2A202603243
-- Người điều phối:
-- Người review bản cuối:
+- Người điều phối:Võ Nguyễn Thành Phát
+- Người review bản cuối: Lưu Nhật Nam
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
