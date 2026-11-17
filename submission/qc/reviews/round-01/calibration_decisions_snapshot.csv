@@ -1,0 +1,399 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C002,img_001.jpg,lay_thuoc_tinh_195:occluded=0;truncated=no,Muc2-thuoc_tinh;R-03,v1.0,195,218,khong,anh
+C003,img_001.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C004,img_001.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C005,img_002.jpg,lay_lop_243:goods,R-01;R-06,v1.0,243,243,khong,anh
+C006,img_002.jpg,lay_box_243:goods,R-02,v1.0,243,218,khong,anh
+C007,img_003.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C008,img_003.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C009,img_003.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C010,img_003.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C011,img_003.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C012,img_003.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C013,img_003.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C014,img_003.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C015,img_003.jpg,giu_box_195:car,R-01,v1.0,195,243,khong,anh
+C016,img_003.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C017,img_003.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C018,img_003.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C019,img_003.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C020,img_003.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C021,img_003.jpg,bo_box_243:goods (195 khong ve),R-01;R-06,v1.0,195,243,khong,anh
+C022,img_003.jpg,bo_box_243:goods (195 khong ve),R-01;R-06,v1.0,195,243,khong,anh
+C023,img_003.jpg,bo_box_243:bicycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C024,img_003.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C025,img_003.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C026,img_003.jpg,dung_box_195:rider (xem C030);bo_co_can_review_243,R-02;R-08,v1.0,195,243,khong,anh
+C027,img_003.jpg,dung_box_195:motorcycle (xem C029);bo_co_can_review_243,R-02;R-08,v1.0,195,243,khong,anh
+C028,img_003.jpg,lay_box_195:motorcycle,R-02,v1.0,195,243,khong,anh
+C029,img_003.jpg,lay_box_195:motorcycle,R-02,v1.0,195,243,khong,anh
+C030,img_003.jpg,lay_box_195:rider,R-02,v1.0,195,243,khong,anh
+C031,img_003.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C032,img_003.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C033,img_003.jpg,lay_box_195:motorcycle,R-02,v1.0,195,243,khong,anh
+C034,img_003.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C035,img_003.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C036,img_003.jpg,lay_lop_195:person,R-01,v1.0,195,243,khong,anh
+C037,img_003.jpg,lay_thuoc_tinh_195:truncated=yes,R-03,v1.0,195,243,khong,anh
+C038,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C039,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C040,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C041,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C042,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C043,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C044,img_003.jpg,lay_thuoc_tinh_195:occluded=0;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C045,img_003.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C046,img_003.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C047,img_003.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C048,img_004.jpg,bo_box_218:rider (243 khong ve),R-01,v1.0,243,218,khong,anh
+C049,img_004.jpg,bo_box_243:rider (218 khong ve),R-01,v1.0,243,218,khong,anh
+C050,img_004.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C051,img_005.jpg,giu_box_195:rider,R-01,v1.0,195,218,khong,anh
+C052,img_005.jpg,bo_box_218:person (195 khong ve),R-01,v1.0,195,218,khong,anh
+C053,img_005.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C054,img_005.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C055,img_005.jpg,giu_box_195:rider (2 ben cung ve);bo_co_can_review_218,R-08,v1.0,195,218,co,anh
+C056,img_005.jpg,lay_thuoc_tinh_195:truncated=yes,R-03,v1.0,195,218,khong,anh
+C057,img_005.jpg,lay_thuoc_tinh_195:truncated=no,R-03,v1.0,195,218,khong,anh
+C058,img_005.jpg,lay_thuoc_tinh_195:occluded=2,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C059,img_006.jpg,giu_box_195:bus,R-01,v1.0,195,243,khong,anh
+C060,img_006.jpg,giu_box_195:car,R-01,v1.0,195,243,khong,anh
+C061,img_006.jpg,giu_box_195:bicycle,R-01,v1.0,195,243,khong,anh
+C062,img_006.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C063,img_006.jpg,giu_box_195:rider,R-01,v1.0,195,243,khong,anh
+C064,img_006.jpg,giu_box_195:bicycle,R-01,v1.0,195,243,khong,anh
+C065,img_006.jpg,bo_box_243:bicycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C066,img_006.jpg,bo_box_243:bus (195 khong ve; giu box bus cua 195 o C059),R-01,v1.0,195,243,khong,anh
+C067,img_006.jpg,bo_box_243:rider (195 khong ve),R-01,v1.0,195,243,khong,anh
+C068,img_006.jpg,bo_box_243:rider (195 khong ve),R-01,v1.0,195,243,khong,anh
+C069,img_006.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C070,img_006.jpg,bo_box_243:bicycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C071,img_006.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C072,img_006.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C073,img_006.jpg,lay_box_195:bicycle,R-02,v1.0,195,243,khong,anh
+C074,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C075,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C076,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C077,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C078,img_006.jpg,lay_thuoc_tinh_195:occluded=2;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C079,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C080,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C081,img_006.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C082,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C083,img_006.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C084,img_007.jpg,lay_thuoc_tinh_243:truncated=no,R-03,v1.0,243,218,khong,anh
+C085,img_008.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C086,img_008.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C087,img_008.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C088,img_008.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C089,img_008.jpg,lay_box_195:person,R-02,v1.0,195,218,khong,anh
+C090,img_008.jpg,lay_lop_195:person,R-01,v1.0,195,218,khong,anh
+C091,img_008.jpg,lay_lop_195:person,R-01,v1.0,195,218,khong,anh
+C092,img_008.jpg,lay_lop_195:person,R-01,v1.0,195,218,khong,anh
+C093,img_008.jpg,lay_lop_195:person,R-01,v1.0,195,218,khong,anh
+C094,img_008.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C095,img_008.jpg,lay_thuoc_tinh_195:truncated=yes,R-03,v1.0,195,218,khong,anh
+C096,img_008.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C097,img_009.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C098,img_009.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C099,img_009.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C100,img_009.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C101,img_009.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C102,img_009.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C103,img_009.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C104,img_009.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C105,img_009.jpg,lay_box_195:motorcycle,R-02,v1.0,195,243,khong,anh
+C106,img_009.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C107,img_009.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C108,img_009.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C109,img_009.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C110,img_010.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C111,img_010.jpg,lay_box_195:motorcycle,R-02,v1.0,195,218,khong,anh
+C112,img_010.jpg,lay_box_195:person,R-02,v1.0,195,218,khong,anh
+C113,img_010.jpg,lay_box_195:bicycle,R-02,v1.0,195,218,khong,anh
+C114,img_010.jpg,lay_box_195:rider,R-02,v1.0,195,218,khong,anh
+C115,img_010.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C116,img_011.jpg,giu_ignore_195,R-07,v1.0,195,243,khong,anh
+C117,img_011.jpg,giu_ignore_195;bo_box_243:person,R-07,v1.0,195,243,khong,anh
+C118,img_011.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C119,img_011.jpg,giu_box_195:person;giu_can_review=true (195 tu gan co),R-08,v1.0,195,khong,co,anh
+C120,img_011.jpg,lay_thuoc_tinh_195:occluded=1;blur=false,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C121,img_011.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C122,img_011.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C123,img_011.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C124,img_011.jpg,lay_thuoc_tinh_195:occluded=1;blur=false,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C125,img_011.jpg,lay_thuoc_tinh_195:occluded=1;blur=false,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C126,img_011.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C127,img_011.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C128,img_011.jpg,lay_thuoc_tinh_195:occluded=1;blur=false,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C129,img_011.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C130,img_012.jpg,lay_thuoc_tinh_243:truncated=no,R-03,v1.0,243,218,khong,anh
+C131,img_012.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C132,img_013.jpg,bo_ignore_218 (195 khong ve ignore),R-07,v1.0,195,218,khong,anh
+C133,img_013.jpg,giu_box_195:motorcycle;bo_ignore_218,R-07,v1.0,195,218,khong,anh
+C134,img_013.jpg,giu_box_195:motorcycle;bo_ignore_218,R-07,v1.0,195,218,khong,anh
+C135,img_013.jpg,giu_box_195:motorcycle;bo_ignore_218,R-07,v1.0,195,218,khong,anh
+C136,img_013.jpg,giu_box_195:motorcycle;bo_ignore_218,R-07,v1.0,195,218,khong,anh
+C137,img_013.jpg,giu_box_195:motorcycle;bo_ignore_218,R-07,v1.0,195,218,khong,anh
+C138,img_013.jpg,lay_lop_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C139,img_014.jpg,bo_box_218:motorcycle (243 khong ve),R-01,v1.0,243,218,khong,anh
+C140,img_014.jpg,bo_box_243:motorcycle (218 khong ve),R-01,v1.0,243,218,khong,anh
+C141,img_014.jpg,bo_can_review_218,R-08,v1.0,243,218,khong,anh
+C142,img_014.jpg,bo_can_review_218,R-08,v1.0,243,218,khong,anh
+C143,img_014.jpg,lay_box_243:rider,R-02,v1.0,243,218,khong,anh
+C144,img_014.jpg,lay_box_243:motorcycle,R-02,v1.0,243,218,khong,anh
+C145,img_014.jpg,lay_box_243:rider,R-02,v1.0,243,218,khong,anh
+C146,img_014.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C147,img_014.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C148,img_015.jpg,giu_box_195:car,R-01,v1.0,195,243,khong,anh
+C149,img_015.jpg,giu_box_195:car;giu_can_review=true (195 tu gan co),R-08,v1.0,195,khong,co,anh
+C150,img_015.jpg,giu_box_195:car;giu_can_review=true (195 tu gan co),R-02;R-08,v1.0,195,khong,co,anh
+C151,img_015.jpg,lay_box_195:car,R-02,v1.0,195,243,khong,anh
+C152,img_015.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C153,img_015.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C154,img_015.jpg,lay_thuoc_tinh_195:occluded=1;blur=false,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C155,img_015.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C156,img_015.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C157,img_015.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C158,img_016.jpg,giu_box_195:goods,R-01;R-06,v1.0,195,243,khong,anh
+C159,img_016.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C160,img_016.jpg,giu_box_195:rider,R-01,v1.0,195,243,khong,anh
+C161,img_016.jpg,lay_lop_195:car (xem C163);bo_co_can_review_243 (van),R-01;R-08,v1.0,195,243,khong,anh
+C162,img_016.jpg,lay_box_195:car,R-02,v1.0,195,243,khong,anh
+C163,img_016.jpg,lay_lop_195:car,R-01,v1.0,195,243,khong,anh
+C164,img_016.jpg,lay_thuoc_tinh_195:truncated=yes,R-03,v1.0,195,243,khong,anh
+C165,img_016.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C166,img_016.jpg,lay_thuoc_tinh_195:truncated=yes,R-03,v1.0,195,243,khong,anh
+C167,img_016.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C168,img_016.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes (lop car),Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C169,img_016.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C170,img_017.jpg,giu_ignore_218,R-08,v1.0,218,243,khong,anh
+C171,img_019.jpg,giu_ignore_218,R-08,v1.0,218,243,khong,anh
+C172,img_019.jpg,giu_ignore_218,R-08,v1.0,218,243,khong,anh
+C173,img_019.jpg,giu_ignore_243;bo_box_218:person,R-05;R-08,v1.0,243,218,khong,anh
+C174,img_019.jpg,giu_ignore_243;bo_box_218:person,R-05;R-08,v1.0,243,218,khong,anh
+C175,img_019.jpg,giu_ignore_243;bo_box_218:person,R-05;R-08,v1.0,243,218,khong,anh
+C176,img_019.jpg,giu_ignore_243;bo_box_218:person,R-05;R-08,v1.0,243,218,khong,anh
+C177,img_019.jpg,giu_ignore_243;bo_box_218:person,R-05;R-08,v1.0,243,218,khong,anh
+C178,img_019.jpg,bo_box_218:person (243 khong ve),R-01,v1.0,243,218,khong,anh
+C179,img_019.jpg,bo_box_243:person (218 khong ve),R-01,v1.0,243,218,khong,anh
+C180,img_019.jpg,bo_box_243:person (218 khong ve),R-01,v1.0,243,218,khong,anh
+C181,img_019.jpg,lay_box_243:person,R-02,v1.0,243,218,khong,anh
+C182,img_019.jpg,lay_box_243:person,R-02,v1.0,243,218,khong,anh
+C183,img_019.jpg,lay_box_243:rider,R-02,v1.0,243,218,khong,anh
+C184,img_019.jpg,lay_box_243:person,R-02,v1.0,243,218,khong,anh
+C185,img_019.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C186,img_019.jpg,lay_thuoc_tinh_243:occluded=1,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C187,img_019.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C188,img_019.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C189,img_021.jpg,giu_ignore_195,R-07,v1.0,195,218,khong,anh
+C190,img_021.jpg,bo_ignore_218 (195 khong ve ignore),R-07,v1.0,195,218,khong,anh
+C191,img_021.jpg,bo_ignore_218 (195 khong ve ignore),R-07,v1.0,195,218,khong,anh
+C192,img_021.jpg,giu_box_195:car;bo_ignore_218,R-07,v1.0,195,218,khong,anh
+C193,img_021.jpg,giu_box_195:car,R-01,v1.0,195,218,khong,anh
+C194,img_021.jpg,giu_box_195:car,R-01,v1.0,195,218,khong,anh
+C195,img_021.jpg,giu_box_195:rider,R-01,v1.0,195,218,khong,anh
+C196,img_021.jpg,giu_box_195:rider,R-01,v1.0,195,218,khong,anh
+C197,img_021.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C198,img_021.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C199,img_021.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C200,img_021.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C201,img_021.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C202,img_021.jpg,giu_box_195:motorcycle,R-01,v1.0,195,218,khong,anh
+C203,img_021.jpg,bo_box_218:rider (195 khong ve),R-01,v1.0,195,218,khong,anh
+C204,img_021.jpg,bo_box_218:person (195 khong ve),R-01,v1.0,195,218,khong,anh
+C205,img_021.jpg,bo_box_218:person (195 khong ve),R-01,v1.0,195,218,khong,anh
+C206,img_021.jpg,lay_box_195:rider,R-02,v1.0,195,218,khong,anh
+C207,img_021.jpg,lay_box_195:rider,R-02,v1.0,195,218,khong,anh
+C208,img_021.jpg,lay_box_195:rider,R-02,v1.0,195,218,khong,anh
+C209,img_021.jpg,lay_box_195:rider,R-02,v1.0,195,218,khong,anh
+C210,img_021.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C211,img_021.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C212,img_021.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C213,img_021.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C214,img_021.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C215,img_021.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C216,img_022.jpg,bo_can_review_218,R-08,v1.0,243,218,khong,anh
+C217,img_022.jpg,lay_box_243:rider,R-02,v1.0,243,218,khong,anh
+C218,img_022.jpg,lay_thuoc_tinh_243:occluded=1,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C219,img_023.jpg,bo_ignore_218 (195 khong ve ignore),R-07,v1.0,195,218,khong,anh
+C220,img_023.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C221,img_023.jpg,bo_box_218:car (195 khong ve),R-01,v1.0,195,218,khong,anh
+C222,img_023.jpg,lay_box_195:rider,R-02,v1.0,195,218,khong,anh
+C223,img_023.jpg,lay_box_195:person,R-02,v1.0,195,218,khong,anh
+C224,img_023.jpg,lay_lop_195:rickshaw,R-10,v1.0,195,218,khong,anh
+C225,img_023.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C226,img_023.jpg,lay_thuoc_tinh_195:occluded=2,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C227,img_023.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C228,img_024.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C229,img_024.jpg,bo_box_243:person (195 khong ve; cao 15px),R-04,v1.0,195,243,khong,anh
+C230,img_024.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C231,img_024.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C232,img_024.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C233,img_024.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C234,img_024.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C235,img_025.jpg,giu_box_195:car,R-01,v1.0,195,218,khong,anh
+C236,img_025.jpg,giu_box_195:person,R-01,v1.0,195,218,khong,anh
+C237,img_025.jpg,bo_box_218:person (195 khong ve; cao 16px),R-04,v1.0,195,218,khong,anh
+C238,img_025.jpg,bo_box_218:person (195 khong ve; cao 15px),R-04,v1.0,195,218,khong,anh
+C239,img_025.jpg,bo_box_218:person (195 khong ve; cao 16px),R-04,v1.0,195,218,khong,anh
+C240,img_025.jpg,bo_box_218:person (195 khong ve; cao 14px),R-04,v1.0,195,218,khong,anh
+C241,img_025.jpg,bo_box_218:person (195 khong ve),R-01,v1.0,195,218,khong,anh
+C242,img_025.jpg,bo_box_218:car (195 khong ve),R-01,v1.0,195,218,khong,anh
+C243,img_025.jpg,bo_box_218:car (195 khong ve),R-01,v1.0,195,218,khong,anh
+C244,img_025.jpg,bo_box_218:person (cao 16px);bo_co_can_review_218,R-04;R-08,v1.0,195,218,khong,anh
+C245,img_025.jpg,bo_box_218:person (cao 14px);bo_co_can_review_218,R-04;R-08,v1.0,195,218,khong,anh
+C246,img_025.jpg,lay_thuoc_tinh_195:blur=false,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C247,img_025.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C248,img_025.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C249,img_025.jpg,lay_thuoc_tinh_195:occluded=2,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C250,img_025.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C251,img_026.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C252,img_026.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C253,img_028.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C254,img_029.jpg,bo_box_243:rider (218 khong ve),R-01,v1.0,243,218,khong,anh
+C255,img_029.jpg,bo_box_243:rider (218 khong ve),R-01,v1.0,243,218,khong,anh
+C256,img_029.jpg,bo_box_243:person (218 khong ve),R-01,v1.0,243,218,khong,anh
+C257,img_029.jpg,bo_can_review_218,R-08,v1.0,243,218,khong,anh
+C258,img_029.jpg,bo_can_review_218,R-08,v1.0,243,218,khong,anh
+C259,img_029.jpg,lay_box_243:bicycle,R-02,v1.0,243,218,khong,anh
+C260,img_029.jpg,lay_lop_243:person,R-01,v1.0,243,218,khong,anh
+C261,img_029.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C262,img_029.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C263,img_030.jpg,giu_ignore_195,R-07,v1.0,195,243,khong,anh
+C264,img_030.jpg,giu_ignore_195,R-07,v1.0,195,243,khong,anh
+C265,img_030.jpg,lay_box_195:motorcycle,R-02,v1.0,195,243,khong,anh
+C266,img_030.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C267,img_030.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C268,img_030.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,243,khong,anh
+C269,img_030.jpg,lay_thuoc_tinh_195:truncated=yes,R-03,v1.0,195,243,khong,anh
+C270,img_030.jpg,lay_thuoc_tinh_195:occluded=2,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C271,img_030.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C272,img_030.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C273,img_031.jpg,giu_ignore_243,R-08,v1.0,243,218,khong,anh
+C274,img_031.jpg,giu_ignore_243,R-08,v1.0,243,218,khong,anh
+C275,img_031.jpg,bo_box_218:rider (243 khong ve),R-01,v1.0,243,218,khong,anh
+C276,img_031.jpg,bo_box_243:person (218 khong ve),R-01,v1.0,243,218,khong,anh
+C277,img_031.jpg,bo_box_243:person (218 khong ve),R-01,v1.0,243,218,khong,anh
+C278,img_031.jpg,bo_box_243:motorcycle (218 khong ve),R-01,v1.0,243,218,khong,anh
+C279,img_031.jpg,bo_box_243:person (218 khong ve),R-01,v1.0,243,218,khong,anh
+C280,img_031.jpg,bo_box_243:car (218 khong ve),R-01,v1.0,243,218,khong,anh
+C281,img_031.jpg,bo_box_243:rider (218 khong ve),R-01,v1.0,243,218,khong,anh
+C282,img_031.jpg,lay_box_243:person,R-02,v1.0,243,218,khong,anh
+C283,img_031.jpg,lay_box_243:person,R-02,v1.0,243,218,khong,anh
+C284,img_031.jpg,lay_box_243:rider,R-02,v1.0,243,218,khong,anh
+C285,img_031.jpg,lay_lop_243:person,R-01,v1.0,243,218,khong,anh
+C286,img_031.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C287,img_031.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C288,img_031.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C289,img_031.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C290,img_031.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C291,img_031.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C292,img_031.jpg,lay_thuoc_tinh_243:blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C293,img_031.jpg,lay_thuoc_tinh_243:blur=false,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C294,img_031.jpg,lay_thuoc_tinh_243:occluded=0;blur=true,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C295,img_032.jpg,giu_box_195:person,R-01,v1.0,195,243,khong,anh
+C296,img_032.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C297,img_032.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C298,img_032.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C299,img_032.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C300,img_032.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C301,img_032.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C302,img_032.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C303,img_032.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C304,img_032.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C305,img_032.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C306,img_032.jpg,lay_box_195:person,R-02,v1.0,195,243,khong,anh
+C307,img_032.jpg,lay_thuoc_tinh_195:occluded=0,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C308,img_032.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C309,img_032.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C310,img_032.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C311,img_032.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C312,img_032.jpg,lay_thuoc_tinh_195:occluded=2,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C313,img_032.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C314,img_034.jpg,bo_box_218:rider (243 khong ve),R-01,v1.0,243,218,khong,anh
+C315,img_034.jpg,bo_box_218:person (243 khong ve),R-01,v1.0,243,218,khong,anh
+C316,img_034.jpg,bo_box_218:rider (243 khong ve),R-01,v1.0,243,218,khong,anh
+C317,img_034.jpg,bo_box_218:rider (243 khong ve),R-01,v1.0,243,218,khong,anh
+C318,img_034.jpg,bo_box_218:motorcycle (243 khong ve),R-01,v1.0,243,218,khong,anh
+C319,img_034.jpg,bo_box_218:bicycle (243 khong ve),R-01,v1.0,243,218,khong,anh
+C320,img_034.jpg,bo_box_243:bicycle (218 khong ve),R-01,v1.0,243,218,khong,anh
+C321,img_034.jpg,lay_box_243:rider,R-02,v1.0,243,218,khong,anh
+C322,img_034.jpg,lay_thuoc_tinh_243:occluded=1,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C323,img_034.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C324,img_034.jpg,lay_thuoc_tinh_243:truncated=no,R-03,v1.0,243,218,khong,anh
+C325,img_034.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C326,img_035.jpg,giu_box_195:rider,R-01,v1.0,195,243,khong,anh
+C327,img_035.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C328,img_035.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C329,img_035.jpg,bo_box_243:person (195 khong ve),R-01,v1.0,195,243,khong,anh
+C330,img_035.jpg,lay_box_195:motorcycle,R-02,v1.0,195,243,khong,anh
+C331,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C332,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C333,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C334,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C335,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C336,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C337,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C338,img_035.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C339,img_036.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C340,img_036.jpg,bo_box_218:motorcycle (195 khong ve),R-01,v1.0,195,218,khong,anh
+C341,img_036.jpg,lay_lop_195:van,R-01,v1.0,195,218,khong,anh
+C342,img_036.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,218,khong,anh
+C343,img_037.jpg,bo_box_218:bus (195 khong ve),R-01,v1.0,195,218,khong,anh
+C344,img_037.jpg,bo_box_218:bus (195 khong ve);bo_co_can_review_218,R-01;R-08,v1.0,195,218,khong,anh
+C345,img_037.jpg,lay_thuoc_tinh_195:occluded=1;truncated=yes,Muc2-thuoc_tinh;R-03,v1.0,195,218,khong,anh
+C346,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C347,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C348,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C349,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C350,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C351,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C352,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C353,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C354,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C355,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C356,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C357,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C358,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C359,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C360,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C361,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C362,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C363,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C364,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C365,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C366,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C367,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C368,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C369,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C370,img_038.jpg,bo_box_218:goods (243 khong ve),R-01,v1.0,243,218,khong,anh
+C371,img_039.jpg,giu_box_195:motorcycle,R-01,v1.0,195,243,khong,anh
+C372,img_039.jpg,giu_box_195:rider,R-01,v1.0,195,243,khong,anh
+C373,img_039.jpg,bo_box_243:car (195 khong ve),R-01,v1.0,195,243,khong,anh
+C374,img_039.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C375,img_039.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C376,img_039.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C377,img_039.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C378,img_039.jpg,bo_box_243:motorcycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C379,img_039.jpg,bo_box_243:bicycle (195 khong ve),R-01,v1.0,195,243,khong,anh
+C380,img_039.jpg,lay_box_195:bicycle,R-02,v1.0,195,243,khong,anh
+C381,img_039.jpg,lay_lop_195:bicycle,R-01,v1.0,195,243,khong,anh
+C382,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C383,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C384,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C385,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C386,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C387,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C388,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C389,img_039.jpg,lay_thuoc_tinh_195:occluded=1,Muc2-thuoc_tinh,v1.0,195,243,khong,anh
+C390,img_040.jpg,giu_ignore_243,R-08,v1.0,243,218,khong,anh
+C391,img_040.jpg,bo_box_218:bus (243 khong ve),R-01,v1.0,243,218,khong,anh
+C392,img_040.jpg,bo_box_243:motorcycle (218 khong ve),R-01,v1.0,243,218,khong,anh
+C393,img_040.jpg,bo_box_243:bus (218 khong ve),R-01,v1.0,243,218,khong,anh
+C394,img_040.jpg,bo_box_243:bus (218 khong ve),R-01,v1.0,243,218,khong,anh
+C395,img_040.jpg,lay_thuoc_tinh_243:occluded=2,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C396,img_040.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C397,img_040.jpg,lay_thuoc_tinh_243:occluded=0,Muc2-thuoc_tinh,v1.0,243,218,khong,anh
+C398,img_040.jpg,lay_thuoc_tinh_243:truncated=no,R-03,v1.0,243,218,khong,anh
